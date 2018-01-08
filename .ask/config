@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.0d4ec28c-2f88-4377-bcf6-2fa4cb21e313",
+      "was_cloned": false,
+      "merge": {
+        "skillManifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-AlexaNumberDemo-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
